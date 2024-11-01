@@ -1,31 +1,31 @@
 ### Register
 
-(output/register.png)
+![App Screenshot](output/register.png)
 
 ### Login
 
-(output/login.png)
+![App Screenshot](output/login.png)
 
 ### Data Buku
 
-(output/menampilkan%20data%20buku.png)
+![App Screenshot](output/menampilkan%20data%20buku.png)
 
 ### Detail Buku
 
-(https://i.imgur.com/Z6ItYFW.png)
+![App Screenshot](output/menampilkan%20buku%20berdasarkan%20kode.png)
 
 ### Gagal Tambah Buku
 
-(https://i.imgur.com/KH6Mc23.png)
+![App Screenshot](https://i.imgur.com/KH6Mc23.png)
 
 ### Tambah Buku
 
-(https://i.imgur.com/ZNBNJSH.png)
+![App Screenshot](output/tambah%20buku.png)
 
 ### Update Buku
 
-(https://i.imgur.com/6A35ij1.png)
+![App Screenshot](output/update%20buku.png)
 
 ### Delete Buku
 
-(https://i.imgur.com/kvmNGjD.png)
+![App Screenshot](output/delete%20buku.png)
